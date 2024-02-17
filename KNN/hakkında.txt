@@ -1,0 +1,6 @@
+
+Veri Seti Hakkında
+
+İris çiçeği veri seti, İngiliz istatistikçi ve biyolog Ronald Fisher tarafından 1936 yılında yayımlanan "Taksonomik problemlerde birden fazla ölçümün kullanımı" başlıklı makalesinde tanıtılan çok değişkenli bir veri setidir. Bazen Edgar Anderson'ın İris veri seti olarak adlandırılır çünkü Edgar Anderson, üç ilgili İris çiçeği türünün morfolojik varyasyonunu niceliklendirmek için verileri toplamıştır. Veri seti, her biri İris'in üç türünden (İris Setosa, İris virginica ve İris versicolor) 50 örnek içerir. Her örneğinden dört özellik ölçülmüştür: çanak yaprakların ve taç yaprakların uzunluğu ile genişliği, santimetre cinsinden.
+
+Bu veri seti, makine öğrenmesinde birçok istatistiksel sınıflandırma tekniği için tipik bir test durumu haline geldi, örneğin destek vektör makineleri gibi.
