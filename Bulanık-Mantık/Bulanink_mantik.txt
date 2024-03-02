@@ -1,0 +1,18 @@
+Üyelik fonksiyonu: Oda Sıcaklığı
+- Soğuk: [0, 0, 18, 22]
+- Normal: [18, 22, 26]
+- Sıcak: [22, 26, 30, 30]
+
+Bulanık kural: Eğer Oda Sıcaklığı Sıcak İse, Klimayı Aç
+
+Örnek: Oda sıcaklığı 24 derece olsun.
+
+1. Oda sıcaklığı üyelik fonksiyonlarına göre değerlendirilir:
+   - Soğuk: 0
+   - Normal: 0.4
+   - Sıcak: 0.6
+
+2. Bulanık kurala göre çıktı değeri hesaplanır:
+   - Klimayı Aç: 0.6
+
+Sonuç olarak, oda sıcaklığı 24 derece olduğunda klimayı açma olasılığı 0.6'dır.
