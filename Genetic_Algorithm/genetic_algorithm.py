@@ -67,7 +67,7 @@ class Population:
 
 # Kullanım örneği
 population_size = 100
-generations = 50
+generations = 60
 mutation_rate = 0.01
 
 population = Population(population_size)

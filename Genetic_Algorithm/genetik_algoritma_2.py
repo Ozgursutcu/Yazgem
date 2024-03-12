@@ -60,7 +60,7 @@ def genetic_algorithm(target, population_size=100, generations=1000, mutation_ra
 target_string = "HelloWorld"
 population_size = 200
 generations = 100
-mutation_rate = 0.01
+mutation_rate = 0.03
 
 # Genetik algoritmayı çalıştır
 best_solution, generation = genetic_algorithm(target_string, population_size, generations, mutation_rate)
